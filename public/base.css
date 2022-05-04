@@ -1,0 +1,10 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Lato&family=Roboto:wght@300&display=swap');
+
+body {
+  margin: 0;
+  padding: 0;
+  background-color: #ccc;
+  font-family: 'Lato', sans-serif;
+  font-family: 'Roboto', sans-serif;
+}
