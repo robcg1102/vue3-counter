@@ -21,7 +21,7 @@ export default {
   <div class="container">
     <img src="./assets/logo.svg" alt="" width="125" />
     <small>
-      <h1>Hola Mundo</h1>
+      <h1>Bienvenido</h1>
     </small>
     <hr />
     <h2>Contador: {{ contador }}</h2>
